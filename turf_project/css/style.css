@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+.col-md-12{
+    background-color: #515151;
+}
+
+.container{
+    background-color: black;
+    color: aliceblue;
+}
+
+/* .nav-item{
+    color: antiquewhite;
+} */
